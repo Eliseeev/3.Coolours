@@ -1,5 +1,5 @@
 # Coolours
-(☞ﾟ∀ﾟ)☞  A fun program for generating random RGB colors from #FF0000 to #0000FF.
+(☞ﾟ∀ﾟ)☞  A fun program for generating random RGB colors from #FF0000 to #0000FF
 ### There are lock pictures in the program.
 ### They can be opened and closed.
 ### When closing, the color will be  fixed, when opening it will change.
